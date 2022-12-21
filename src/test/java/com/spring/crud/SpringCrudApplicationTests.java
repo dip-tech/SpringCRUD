@@ -9,6 +9,7 @@ class SpringCrudApplicationTests {
 	@Test
 	void contextLoads() {
 
+		System.out.print("TEST");
 //		RestAssured.baseURI = "http://localhost:8001";
 //		given().log().all().header("Content-Type", "application/json")
 //				.body("{\n" + "				    \"username\":\"dipankar8dutta@gmail.com\",\n"
